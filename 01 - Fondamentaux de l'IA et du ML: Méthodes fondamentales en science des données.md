@@ -1,3 +1,7 @@
+https://notebooklm.google.com/notebook/64843e90-a9f7-45db-abb8-0623cadfd16a?artifactId=2e8797e7-649a-4688-b3c9-401a9bb96ded
+
+
+
 # Fundamentos de IA e ML: Métodos Fundamentais de Ciência de Dados
 
 Métodos de ciência de dados são usados em vários setores para gerar valor para os negócios. Machine Learning (ML, ou aprendizado de máquina) é um método de ciência de dados que usa algoritmos de previsão para encontrar padrões em grandes quantidades de dados, permitindo que máquinas prevejam resultados futuros e tomem decisões com intervenção humana mínima.
