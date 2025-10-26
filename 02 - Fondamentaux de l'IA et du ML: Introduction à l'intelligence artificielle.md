@@ -1,3 +1,5 @@
+https://notebooklm.google.com/notebook/d980818c-a31a-452a-8564-a689acc98581?artifactId=19da2d2f-1cda-4417-bbfd-542e75b99c63
+
 # Fundamentos de IA e ML: Introdução à Inteligência Artificial
 
 A inteligência artificial (IA) fornece ferramentas avançadas que ajudam organizações a prever comportamentos, identificar padrões importantes e orientar a tomada de decisão em um mundo cada vez mais movido por dados.
