@@ -3,6 +3,9 @@ https://drive.google.com/file/d/1Vpe2Gu-mOY9mIPp-DDd9IUE3vlxYrTNh/view?usp=shari
 
 [![Ouvir Áudio](https://img.shields.io/badge/▶️%20Ouvir%20Áudio-4285F4?style=for-the-badge)](https://drive.google.com/file/d/1Vpe2Gu-mOY9mIPp-DDd9IUE3vlxYrTNh/view?usp=sharing)
 
+[![Assistir Aula](https://img.shields.io/badge/▶️%20Assistir%20Aula-4285F4?style=for-the-badge)](https://drive.google.com/file/d/1hhlQTlRjBQDRsEioQzPdNwE3D2y1dIeX/view?usp=drive_link)
+
+
 
 # Fundamentos de IA e ML: Introdução à Inteligência Artificial
 
