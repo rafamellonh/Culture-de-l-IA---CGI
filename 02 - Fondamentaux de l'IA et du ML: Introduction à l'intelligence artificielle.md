@@ -1,8 +1,6 @@
-https://notebooklm.google.com/notebook/d980818c-a31a-452a-8564-a689acc98581?artifactId=19da2d2f-1cda-4417-bbfd-542e75b99c63
-https://drive.google.com/file/d/1Vpe2Gu-mOY9mIPp-DDd9IUE3vlxYrTNh/view?usp=sharing
+
 
 [![Ouvir Áudio](https://img.shields.io/badge/▶️%20Ouvir%20Áudio-4285F4?style=for-the-badge)](https://drive.google.com/file/d/1Vpe2Gu-mOY9mIPp-DDd9IUE3vlxYrTNh/view?usp=sharing)
-
 [![Assistir Aula](https://img.shields.io/badge/▶️%20Assistir%20Aula-4285F4?style=for-the-badge)](https://drive.google.com/file/d/1hhlQTlRjBQDRsEioQzPdNwE3D2y1dIeX/view?usp=drive_link)
 
 
