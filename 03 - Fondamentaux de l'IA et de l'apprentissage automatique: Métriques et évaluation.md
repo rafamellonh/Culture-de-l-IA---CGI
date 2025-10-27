@@ -1,3 +1,8 @@
+
+[![Ouvir Áudio](https://img.shields.io/badge/▶️%20Ouvir%20Áudio-4285F4?style=for-the-badge)](https://drive.google.com/file/d/12X4kTm9hKT-kgwx0yvNBHzh50s_Nq9qr/view?usp=sharing)
+[![Assistir Aula](https://img.shields.io/badge/▶️%20Assistir%20Aula-4285F4?style=for-the-badge)](https://drive.google.com/file/d/1sbNhFE2RRSKCJQzh27fyfdb4enf0uFnR/view?usp=drive_link)
+
+
 # Fundamentos de IA e ML: Métricas e Avaliação
 
 Entender a avaliação de modelos é essencial para tomar decisões
