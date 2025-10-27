@@ -1,5 +1,7 @@
 https://notebooklm.google.com/notebook/64843e90-a9f7-45db-abb8-0623cadfd16a?artifactId=2e8797e7-649a-4688-b3c9-401a9bb96ded
 
+[![Assistir Aula](https://img.shields.io/badge/▶️%20Assistir%20Aula-4285F4?style=for-the-badge)](https://drive.google.com/file/d/1rusx8r-6XpZlpTGH9gTT1psh97mftrIl/view?usp=sharing)
+
 
 
 # Fundamentos de IA e ML: Métodos Fundamentais de Ciência de Dados
